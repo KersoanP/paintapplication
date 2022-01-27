@@ -262,7 +262,8 @@ ctx.fillText("Smile!",193,400)
 </html>
 DEVELOPED BY:KERSOAN P
 ```
-OUTPUT:
+OUTPUT: 
+
 ![github logo](smile.png)
 
 ```2.DESIGN A DANGER BOARD USING HTML CANVAS
