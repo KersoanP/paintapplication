@@ -222,7 +222,10 @@ Thus a website is designed and validated for paint application using HTML5 canva
 
 
 
-```ASSIGNMENTS:
+```
+ASSIGNMENTS:
+
+
 1.DESIGN A SMILE EMOJI USING HTML CANVAS.
 PROGRAM
 <!DOCTYPE html>
@@ -267,11 +270,10 @@ OUTPUT:
 ![github logo](smile.png)
 
 ```2.DESIGN A DANGER BOARD USING HTML CANVAS
-PROGRAM
-</script>
-</body>
-</html>
-DEVELOPED BY:KADIN SAMSON
+
+
+PROGRAM:-
+
 <!DOCTYPE html>
 <html>
 <body>
